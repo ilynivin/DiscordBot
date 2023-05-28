@@ -41,11 +41,11 @@ Or you want to do the classic way of coding here you can do it
 ## Old Classic Way 
 
 # Check lists 
-- [] Install Python 
-- [] Git Setup(optional)
-- [] Git Clone or Download 
-- [] Installing the requirements to run the bot boi 
-- [] Bot creating and tocken !
+- [x] Install Python 
+- [x] Git Setup(optional)
+- [x] Git Clone or Download 
+- [x] Installing the requirements to run the bot boi 
+- [x] Bot creating and tocken !
 
 # Install Python 
 To run this bot you have to install python on your workstation.Install it Now [downloadmeboi](https://www.python.org/downloads/)
@@ -79,7 +79,7 @@ Every Gamer / Programer / Webdevaloper Needs the basic framework . Eg : Gamer ne
 
 Ok! Now we show some epic HACKING SKILLS Like this 
 
-![hackmeme](https://gifdb.com/images/high/hacker-thumbs-up-8och19kzuukqqnwn.gif)
+![hackmeme](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN1uSVzL70NrA1go5YydSQhdA5s78azK2G5wur91xy&s)
 
 On your Terminal type this following Command 
 
