@@ -104,10 +104,11 @@ Go to discord dev portal and create a application and click create bot and copy 
 
 *Note : Tocken are the password of the bot . If it comes in wrong hands it will become worse ! Make sure that your token is saved in `.env`file*
 
----
-
-<h6 align = center> "Dont Fork it give it A Star 🎆"</h6>
 
 <br><br>
 
 - [x]  Bot creating and tocken !
+
+---
+
+<h2 align = center> "Dont Fork it give it A Star 🎆"</h6>
