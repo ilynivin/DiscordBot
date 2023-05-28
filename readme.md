@@ -78,6 +78,7 @@ Every Gamer / Programer / Webdevaloper Needs the basic framework . Eg : Gamer ne
 ![epic](https://i.imgflip.com/3d32jg.jpg)
 
 Ok! Now we show some epic HACKING SKILLS Like this 
+
 ![hackmeme](https://gifdb.com/images/high/hacker-thumbs-up-8och19kzuukqqnwn.gif)
 
 On your Terminal type this following Command 
