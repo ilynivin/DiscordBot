@@ -60,7 +60,7 @@ You can clone this repo using the git clone.Also one more thing is that you have
 
 Once done Clone this repo by Pasting this command in your terminal 
 ```
-
+git clone https://github.com/ilynivin/bottemplate.git
 ```
 
 <br><br>
